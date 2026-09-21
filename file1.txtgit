@@ -1,0 +1,2 @@
+"Feature for Dev branch"  add file1.txtgit commit -m "Dev: added feature to file1"
+"IMPORTANT BUG OR ERROR!"  status

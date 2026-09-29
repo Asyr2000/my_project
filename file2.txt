@@ -1,2 +1,0 @@
-"Git is awesome" 
-"New line in file 1"  "New line in file 2" 
